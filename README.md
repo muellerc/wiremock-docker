@@ -1,4 +1,4 @@
-# How to I build the WireMock docker image?
+# How to build the WireMock docker image?
 
 Clone this repository by running:  
 ```
@@ -15,7 +15,7 @@ Make sure you have Docker installed and run:
 docker build -t wiremock .
 ```
 
-# How to I use the WireMock docker image?
+# How to use the WireMock docker image?
 
 After you have built the image, you can run it by executing:  
 ``

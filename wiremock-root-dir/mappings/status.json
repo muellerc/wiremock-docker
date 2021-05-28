@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/status"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "status.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
